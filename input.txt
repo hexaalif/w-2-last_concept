@@ -1,0 +1,10 @@
+3
+250
+Cold Coffe
+2
+500
+Chicken Pizza
+1
+60
+Thai soup
+2
